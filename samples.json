@@ -1,0 +1,50 @@
+[
+ {
+  "file": "samples/crazing_244.jpg",
+  "label": "crazing"
+ },
+ {
+  "file": "samples/crazing_271.jpg",
+  "label": "crazing"
+ },
+ {
+  "file": "samples/inclusion_244.jpg",
+  "label": "inclusion"
+ },
+ {
+  "file": "samples/inclusion_271.jpg",
+  "label": "inclusion"
+ },
+ {
+  "file": "samples/patches_244.jpg",
+  "label": "patches"
+ },
+ {
+  "file": "samples/patches_271.jpg",
+  "label": "patches"
+ },
+ {
+  "file": "samples/pitted_surface_244.jpg",
+  "label": "pitted_surface"
+ },
+ {
+  "file": "samples/pitted_surface_271.jpg",
+  "label": "pitted_surface"
+ },
+ {
+  "file": "samples/rolled-in_scale_244.jpg",
+  "label": "rolled-in_scale"
+ },
+ {
+  "file": "samples/rolled-in_scale_271.jpg",
+  "label": "rolled-in_scale"
+ },
+ {
+  "file": "samples/scratches_244.jpg",
+  "label": "scratches"
+ },
+ {
+  "file": "samples/scratches_271.jpg",
+  "label": "scratches"
+ }
+]
